@@ -17,7 +17,7 @@ LANDING PAGE
 
     background:
     linear-gradient(rgba(0,0,0,.65), rgba(0,0,0,.65)),
-    url("../assets/images/indeximg.png");
+    url("./assets/images/indeximg.png");
 
    background-size: cover;
    background-position: center;
