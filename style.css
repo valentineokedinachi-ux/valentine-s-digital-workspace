@@ -17,7 +17,7 @@ LANDING PAGE
 
     background:
     linear-gradient(rgba(0,0,0,.65), rgba(0,0,0,.65)),
-    url("./assets/images/indeximg.png");
+    url("./assets/images/workspce.png");
 
    background-size: cover;
    background-position: center;
@@ -918,7 +918,7 @@ header{
 
 .video-card video{
 
-    width:75%;
+    width:80%;
 
     max-width:1400px;
 
