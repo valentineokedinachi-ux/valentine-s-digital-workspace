@@ -1838,3 +1838,41 @@ gap:40px;
     height: 500px;
     border-radius: 20px;
 }
+
+
+/* AI PROJECTS ONLY */
+
+.ai-projects .project-card{
+    height: auto;
+    overflow: hidden;
+}
+
+.ai-projects .project-card video{
+    width: 100%;
+    height: 500px;
+    display: block;
+    object-fit: contain;
+    border-radius: 20px 20px 0 0;
+}
+
+.ai-projects .project-content{
+    position: static;
+    opacity: 1;
+    background: #0d0d0d;
+    padding: 20px;
+}
+
+.ai-projects .project-content h3{
+    margin-bottom: 10px;
+}
+
+.ai-projects .project-content p{
+    color: #b8b8b8;
+    line-height: 1.7;
+    margin-bottom: 15px;
+}
+
+.ai-projects .project-links a{
+    text-decoration: none;
+}
+
